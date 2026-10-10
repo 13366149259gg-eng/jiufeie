@@ -1,0 +1,34 @@
+{
+  "feie_governance_scheme.docx": {
+    "bytes": 1770485,
+    "sha256": "af294582f401c510945be5028ab9de3716fa645bb498a399ffe503130148e1f8"
+  },
+  "feie_governance_scheme.pdf": {
+    "bytes": 2515444,
+    "sha256": "2dd2bb3939d01a6305d06ce97b4647c74ee55fcbfa8f323384dfdde247ce710b"
+  },
+  "feie_official_briefing.pptx": {
+    "bytes": 169303,
+    "sha256": "39e87de8796b0d2e3703aa01c533b6d3e8a4088245ccf50f7a78f5a6e09d73c1"
+  },
+  "feie_official_briefing.pdf": {
+    "bytes": 1315423,
+    "sha256": "d75f69844e4d4032ab7d595b2d86be5f8184214d4ae923e05f2b1fd09374ac28"
+  },
+  "feie_evidence_register.xlsx": {
+    "bytes": 12595,
+    "sha256": "fb424de2544a0988dea91d657c27a02210b3f5153c5eb44d6e9acc1e61afbc42"
+  },
+  "feie_slides_overview.jpg": {
+    "bytes": 1031271,
+    "sha256": "53485ef5eb22a7a7d1442c1f087369d9aa8c44e289faa6eeb76c03f391f248e4"
+  },
+  "sources_registry.json": {
+    "bytes": 8328,
+    "sha256": "064c7b98550807e2fc87bf1afbad45afc28e123aae426fa4673749237055c459"
+  },
+  "feie_official_package.zip": {
+    "bytes": 9450071,
+    "sha256": "c5787c01a9bdcb5cb3f8795073d9f40c110d024f2bcbd6bba6c5272035a61cbb"
+  }
+}
