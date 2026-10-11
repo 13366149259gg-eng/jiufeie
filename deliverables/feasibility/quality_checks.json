@@ -1,0 +1,27 @@
+{
+  "report_pages": 39,
+  "ppt_pages": 30,
+  "report_tables": 26,
+  "report_figures": 13,
+  "source_links_pdf": 18,
+  "word_text_missing": [],
+  "slide_text_missing": [],
+  "slide_shapes_outside_canvas": [],
+  "sources": 20,
+  "finance_checks": {
+    "verified_formula_rows": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      19,
+      20
+    ],
+    "known_annual_cost_wan": 713.575,
+    "unpriced_total": "待核定"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "feie_feasibility_implementation.docx": {
+    "bytes": 2092362,
+    "sha256": "f8cde7d4555b7a3344c787615b453f94930f003b54737c0dd02972be5a6d3a9a"
+  },
+  "feie_feasibility_implementation.pdf": {
+    "bytes": 2930068,
+    "sha256": "1056e7455803aa77127f3bebdbfa25b32171514c05e8d4d1acc64f06aae6d98f"
+  },
+  "feie_feasibility_briefing.pptx": {
+    "bytes": 174541,
+    "sha256": "644a66ece255df066997e3cedc34515b531b9aa246420fba93489ca700d7bc48"
+  },
+  "feie_feasibility_briefing.pdf": {
+    "bytes": 1324191,
+    "sha256": "1497c587f3ce87e0e09f776616c70c2cc9812a4b64796d06e550b713acbbfbcd"
+  },
+  "feie_cost_evidence.xlsx": {
+    "bytes": 23939,
+    "sha256": "2f25153958ec7e0216c926341e8a0269c4ff71f97560532b059425cc3b06afe5"
+  },
+  "feie_slides_overview.jpg": {
+    "bytes": 1061689,
+    "sha256": "6843094e5b1cb616ef7b83bbd7f60b73c273ffbff38ab4f0704c5836f7ce0afc"
+  },
+  "sources_registry.json": {
+    "bytes": 8864,
+    "sha256": "234f0037131935d61c4ad77116b38c833b97cbe167d7ad05733b6b944cec3c79"
+  },
+  "feie_feasibility_package.zip": {
+    "bytes": 10447489,
+    "sha256": "e7d29058e2a50ea9cb24638142f937c3ef102f0cffac02d230b5aa1840988e0c"
+  }
+}
